@@ -253,3 +253,20 @@ section {
 address {
   padding-left: 60px;
 }
+
+.contact h3 {
+  color: #fce138;
+  font-size: 32px;
+}
+
+.contact-info p,
+.contact-info address {
+  line-height: 1.5;
+  font-style: normal;
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.contact address a {
+  color: #fce138;
+}
