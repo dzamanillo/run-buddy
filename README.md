@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Daniel Zamanillo
+
+### ©️2019 Run Buddy, Inc 
