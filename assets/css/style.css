@@ -72,11 +72,28 @@ section {
 
 /* Hero Style Start */
 .hero {
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url("../images/flipped-hero-image.jpg");
   height: 600px;
   background-size: cover;
   background-position: center;
   position: relative;
+}
+
+.hero-text {
+  float: left;
+  display: block;
+  text-align: right;
+  width: 50%;
+}
+
+.hero-text h2 {
+  color: #fce138;
+  font-style: italic;
+  font-size: 42px;
+}
+
+.hero-text p {
+  color: white;
 }
 /* Hero Style End */
 
