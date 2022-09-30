@@ -25,4 +25,4 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-1
       # Deploy the site to S3
-      - run: aws s3 sync ../web/src/ s3://run-buddy.dzamanillo.com/
+      - run: aws s3 sync ../ s3://run-buddy.dzamanillo.com/
